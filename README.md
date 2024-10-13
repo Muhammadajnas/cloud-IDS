@@ -28,17 +28,18 @@ To set up the project locally:
 1. Clone this repository:
    ```bash
    git clone https://github.com/muhammadajnas/cloudIDS.git
-##Future Work
+   
+## Future Work
 Extend the model to detect zero-day and advanced persistent threats (APTs).
 Deploy the system in a real-time cloud environment using Kubernetes for scalability.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contact
+## Contact
 For further details, reach out to:
 
-Muhammad Ajnas
-Email: muhammadajnas2001@gmail.com
+## Muhammad Ajnas
+# Email: muhammadajnas2001@gmail.com
 
 
 
